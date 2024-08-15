@@ -32,5 +32,7 @@ A rental service system that manages multiple branches throughout the city, each
   - Spring Boot Starter Web
   - Spring Boot DevTools
   - H2 Database
+
 ## UML Class Diagram
+
   ![image](https://github.com/user-attachments/assets/34a89ccb-cdf2-406d-a811-bcd989743f80)
