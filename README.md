@@ -31,7 +31,7 @@ A rental service system that manages multiple branches throughout the city, each
   - Spring Boot Starter Data JPA
   - Spring Boot Starter Web
   - Spring Boot DevTools
-  - H2 Database
+  - MySQL Database
 
 ## UML Class Diagram
 
