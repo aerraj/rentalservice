@@ -36,3 +36,17 @@ A rental service system that manages multiple branches throughout the city, each
 ## UML Class Diagram
 
   ![image](https://github.com/user-attachments/assets/34a89ccb-cdf2-406d-a811-bcd989743f80)
+
+## MySQL Database 
+
+### Database Tables
+![image](https://github.com/user-attachments/assets/d158f76c-75d2-4e09-928c-6b3d4dc3d94a)
+### Tables Description
+![image](https://github.com/user-attachments/assets/8afa1056-eceb-4f60-b553-abf5b46185c9)
+### Tables Content
+![image](https://github.com/user-attachments/assets/2a4d9178-37ed-4491-9d3e-3e149e85c78d)
+
+
+
+
+
